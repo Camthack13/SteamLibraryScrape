@@ -1,0 +1,1 @@
+This was my first attempt at this project writting in python, I am restarting again in a different repo for now. I would like to have it all live under the same repo eventually with a more detailed read me
